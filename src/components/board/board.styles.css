@@ -1,0 +1,14 @@
+.board-container {
+    display: flex;
+    justify-content: center;
+}
+
+.board {
+    position: absolute;
+    top: 50px;
+    width: 600px;
+    height: 600px;
+    margin: 10px;
+    border: 5px solid #333;
+    background-color: white;
+}

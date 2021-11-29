@@ -1,0 +1,9 @@
+.empty-tile {
+    float: left;
+    width: 140px;
+    height: 140px;
+    border: 1px solid white;
+    margin: 4px;
+    display: table-cell;
+    vertical-align:center;
+}
